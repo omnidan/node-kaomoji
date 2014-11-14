@@ -1,0 +1,37 @@
+{
+  "name": "node-kaomoji",
+  "version": "0.1.0",
+  "description": "simple kaomoji support for node.js projects",
+  "author": "Daniel Bugl <daniel.bugl@touchlay.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omnidan/node-kaomoji.git"
+  },
+  "keywords": [
+    "kaomoji",
+    "simple",
+    "emoticons",
+    "emoticon",
+    "kaomojis",
+    "smiley",
+    "smileys",
+    "smilies",
+    "ideogram",
+    "ideograms"
+  ],
+  "bugs": {
+    "url": "https://github.com/omnidan/node-kaomoji/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jsdom": "~1.2.1",
+    "mocha": "^1.21.4",
+    "should": "^3.2.0"
+  },
+  "scripts": {
+    "kaomojiparse": "node lib/kaomojiparse.js",
+    "test": "mocha --require should --bail --reporter spec test/*"
+  },
+  "main": "index.js",
+  "license": "MIT"
+}
