@@ -24,9 +24,9 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "jsdom": "~1.2.1",
-    "mocha": "^1.21.4",
-    "should": "^3.2.0"
+    "jsdom": "~9.4.2",
+    "mocha": "^3.0.2",
+    "should": "^11.1.0"
   },
   "scripts": {
     "kaomojiparse": "node lib/kaomojiparse.js",
