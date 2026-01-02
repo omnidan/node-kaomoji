@@ -1,7 +1,10 @@
 # node-kaomoji [![Build Status](https://travis-ci.org/omnidan/node-kaomoji.svg?branch=master)](https://travis-ci.org/omnidan/node-kaomoji) [![Code Climate](https://codeclimate.com/github/omnidan/node-kaomoji/badges/gpa.svg)](https://codeclimate.com/github/omnidan/node-kaomoji)
-_simple kaomoji support for node.js projects_
 
-![node-kaomoji example](http://i.imgur.com/Lb9PSRe.png) 
+> ⚠️ **Project Status: Not Actively Maintained**
+> 
+> This project is currently not being actively maintained. If you are interested in taking over its development and maintenance, please contact me.
+
+_simple kaomoji support for node.js projects_
 
 ## Installation
 To install `node-kaomoji`, you need [node.js](http://nodejs.org/) and [npm](https://github.com/npm/npm#super-easy-install).
